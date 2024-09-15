@@ -1,0 +1,46 @@
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+table, td, tr {
+    border-collapse: collapse;
+}
+
+.field {
+    height: 100px;
+    width: 100px;
+    border-collapse: collapse;
+}
+
+.piece {
+    margin:auto;
+    padding-left: 10px;
+    font-size: 72px;
+    align-content: center;
+}
+
+.white_field {
+    background-color: #dbcdcd;
+}
+
+.black_field {
+    background-color: #838383;
+}
+
+.highlighted_black_field {
+    background-color: #e3d771;
+}
+
+.highlighted_white_field {
+    background-color: #e3d771;
+}
+
+.white_piece {
+    color: white;
+}
+
+.black_piece {
+    color: #2d2d2d;
+}
