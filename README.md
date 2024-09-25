@@ -9,7 +9,7 @@ To run this project you need to install python dependencies:
 - Django
 - channels
 - channels_redis
-- Django-widget-tweaks
+- Django-widget-tweaks.
 ```
 $ python -m pip install <package-name>
 ```
